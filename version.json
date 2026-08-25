@@ -1,7 +1,5 @@
 {
-  "version": "7.0",
-  "name": "Rister Feuerschutz Prüfmanager V7.0",
-  "windows_download": "https://github.com/Patrick1992R/Rister-Pruefmanager-Updates/releases/download/v7.0.0/Rister_Sync_V7_0_Update.zip",
-  "android_download": "",
+  "version": "7.0.0",
+  "url": "https://github.com/Patrick1992R/Rister-Pruefmanager-Updates/releases/download/v7.0.0/Rister_Sync_V7_0_Update.zip",
   "notes": "V7.0 - Online-Update-System hinzugefügt"
 }
